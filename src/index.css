@@ -1,0 +1,11 @@
+#sidebar a.active {
+  color: red !important;
+  text-decoration: none;
+}
+
+.a {
+  text-decoration: none !important;
+}
+* {
+  font-family: "Inter", sans-serif;
+}
